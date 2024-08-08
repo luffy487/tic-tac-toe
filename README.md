@@ -98,7 +98,3 @@ A contract that allows users to create, join, and play Tic Tac Toe games with be
 - Properly handle user registration and ensure that users cannot sign up multiple times.
 - Check for edge cases such as invalid game IDs and unauthorized access.
 
-## License
-
-This contract is licensed under the MIT License. See [LICENSE](LICENSE) for more details.
-
